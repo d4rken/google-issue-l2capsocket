@@ -2,7 +2,7 @@
 
 Demonstrates that **Android has no public SDK API for opening an outgoing BR/EDR L2CAP client socket to a known PSM**, and that the platform's own hidden method works once you bypass non-SDK-interface restrictions.
 
-Companion to a Google issue tracker request asking for a sanctioned API. The full issue text is in [`ISSUE_TEXT.md`](ISSUE_TEXT.md) — it can be copied directly into the issue tracker.
+Companion to [b/510252114](https://issuetracker.google.com/issues/510252114) — a Google issue tracker request asking for a sanctioned API. The submitted issue text is in [`ISSUE_TEXT.md`](ISSUE_TEXT.md).
 
 ## TL;DR
 
